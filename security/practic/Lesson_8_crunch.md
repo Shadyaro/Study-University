@@ -100,13 +100,13 @@ crunch 2 2 -e dd -o START
 
 ```shell
 
-       Example 1
-       crunch 1 8
-       crunch will display a wordlist that starts at 'a' and ends at 'zzzzzzzz'
+# crunch will display a wordlist that starts at 'a' and ends at 'zzzzzzzz'
 
-       Example 2
-       crunch 1 6 abcdefg
-       crunch  will display a wordlist using the character set abcdefg that starts at 'a' and ends at
-       'gggggg'
+crunch 1 8
+
+# crunch  will display a wordlist using the character set abcdefg that starts at 'a' and ends at
+
+crunch 1 6 abcdefg
+'gggggg'
 
 ```

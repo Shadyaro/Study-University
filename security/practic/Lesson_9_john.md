@@ -30,7 +30,17 @@ unshadow /etc/passwd /etc/shadow
 
 unshadow /etc/passwd /etc/shadow > /home/kali/Desktop/hash.txt
 
+## using default wordlist in john
+
 john --format=crypt hash.txt
+
+## using custome wordlist by crunch
+
+john --wordlist=crunch.txt --format=crypt hash.txt
+
+## using rockyou.txt wordlist
+
+john --wordlist=rockyou.txt --format=crypt hash.txt
 
 ```
 
