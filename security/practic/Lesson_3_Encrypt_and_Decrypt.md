@@ -75,17 +75,3 @@ gpg -d -o *output-file-name.txt *file-name.txt.gpg
 cat *output-file-name.txt
 
 ```
-
-### Step 1
-
-```shell
-
-
-```
-
-### Step 1
-
-```shell
-
-
-```
