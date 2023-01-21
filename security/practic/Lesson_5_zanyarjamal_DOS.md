@@ -31,6 +31,6 @@ gcc xerxes.c -o xerxes
 
 # check the TX package size
 
-ifocnfig
+ifcocnfig
 
 ```

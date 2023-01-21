@@ -37,6 +37,6 @@ perl slowloris.pl -dns facebook.com
 
 # check the TX package size
 
-ifocnfig
+ifcocnfig
 
 ```

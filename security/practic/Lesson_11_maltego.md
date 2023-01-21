@@ -1,8 +1,7 @@
 ## Maltego
 
-
-uername: bazhdarrzgar21@gmail.com
-password: helloworld.com
+* uername: bazhdarrzgar21@gmail.com
+* password: helloworld.com
 
 ```
 
@@ -16,5 +15,7 @@ password: helloworld.com
     2.2. to Email Addresses [PGP]
 
     2.3. To DNS Name - NS (name server)
+
+    2.3. To DNS Name - MX (mail server)
 
 ```
