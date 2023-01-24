@@ -24,7 +24,7 @@
 
 # open new terminal and type this
 
-cd .set/
+cd /root/.set/
 
 ls
 
